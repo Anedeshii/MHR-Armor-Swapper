@@ -1,0 +1,19 @@
+* text=auto
+* text eol=lf
+
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.ico binary
+*.jpg binary
+*.png binary
+*.gif binary
+*.zip binary
