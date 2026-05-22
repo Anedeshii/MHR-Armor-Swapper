@@ -1,0 +1,23 @@
+# Folders
+MHR Armor Swapper/
+build/
+dist/
+Test/
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.zip
