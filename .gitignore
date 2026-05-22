@@ -1,23 +1,31 @@
-# Folders
-MHR Armor Swapper/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build folders
 build/
 dist/
 Test/
-__pycache__/
 
 # Python
 *.pyc
 *.pyo
 *.egg-info/
 .Python
+*.spec
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Build temp
+temp/
 *.zip
